@@ -1,0 +1,9 @@
+#home {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.lists-component {
+    margin: 20px 0;
+}

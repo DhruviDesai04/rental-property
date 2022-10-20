@@ -1,0 +1,11 @@
+#empty {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  #empty img {
+    max-width: 100px;
+    width: 100%;
+  }
+  

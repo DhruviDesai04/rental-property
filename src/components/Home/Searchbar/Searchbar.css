@@ -1,0 +1,20 @@
+.searchbar-content {
+    border-bottom: 1px solid var(--black);
+    padding: 20px 15px;
+}
+
+.searchbar-icon {
+    color: var(--black);
+    margin-right: 20px;
+}
+
+.searchbar-content input {
+    font-size: 20px;
+    outline: none;
+    border: none;
+    width: 100%;
+}
+
+.searchbar-content input::placeholder {
+    color: var(--black);
+}

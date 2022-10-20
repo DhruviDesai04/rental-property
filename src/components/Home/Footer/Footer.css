@@ -1,0 +1,19 @@
+#footer {
+    margin-bottom: 0 !important;
+    margin-top: auto;
+    margin-top: 30px;
+}
+
+#footer .footer-content {
+    background: var(--primary);
+    padding: 20px 0;
+}
+
+#footer p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--white);
+}

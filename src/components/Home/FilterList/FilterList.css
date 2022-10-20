@@ -1,0 +1,28 @@
+#filter-list .label {
+    margin-bottom: 10px;
+    font-weight: 600;
+    color: var(--primary);
+}
+
+#filter-list .label-range {
+    margin-bottom: 40px;
+    font-weight: 600;
+    color: var(--primary);
+}
+
+#filter-list .input-group {
+    margin-bottom: 20px;
+    flex-direction: column;
+}
+
+#filter-list .input-group button {
+    margin-right: 10px;
+}
+
+#filter-list .makeStyles-root-1 {
+    justify-content: flex-start;
+}
+
+/* .label-range {
+    margin-bottom: 2.5rem;
+} */
